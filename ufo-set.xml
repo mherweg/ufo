@@ -2,7 +2,7 @@
 
 <PropertyList>
 	<sim>
-		<description>UFO with door</description>
+		<description>UFO from the 'White Project' of the UNESCO</description>
 		<author>ET</author>
 
         <long-description>With the UFO you can place 3D objects in the FlightGear scenery, 
@@ -10,7 +10,9 @@
         <fr>
             <long-description>Avec l'UFO (OVNI) vous pouvez placer des objets 3D dans les scènes de FlightGear scenery</long-description>
         </fr>
-                
+        <de>
+            <long-description>Mit dem UFO kann man 3D Objekte in der FlightGear Szenerie platzieren</long-description>
+        </de>   
                 
         <tags>
             <tag>fictional</tag>
@@ -119,6 +121,14 @@
 			<key>
 				<name>End</name>
 				<desc>Hover down</desc>
+			</key>
+			<key>
+				<name>,</name>
+				<desc>Hover left</desc>
+			</key>
+			<key>
+				<name>.</name>
+				<desc>Hover right</desc>
 			</key>
 			<key>
 				<name>mouse click</name>
